@@ -1,0 +1,3 @@
+The specific code would depend on the type of IoT device and the data processing task.
+However, many IoT platforms provide support for edge computing. 
+For example, AWS Greengrass is a service that extends AWS to edge devices so they can act locally on the data they generate, while still using the cloud for management, analytics, and durable storage.
