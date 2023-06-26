@@ -1,0 +1,2 @@
+When implementing edge computing, it's important to consider the trade-off between the computational capabilities of the IoT device and the complexity of the data processing tasks. 
+More complex tasks may still need to be offloaded to a server.
