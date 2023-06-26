@@ -1,0 +1,2 @@
+To implement edge computing, you would need to set up your IoT devices to process data locally.
+This could involve running machine learning models directly on the device, or sending data to a local edge server for processing.
